@@ -1,44 +1,22 @@
 <h1 align="center">Hi 👋, I'm Thibault Aka WolfyzDBois  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 ```bash
-wolfyzdbois:~$ ls
+wolfyzdbois:~$ whoami
+> Thibault Ponsot aka WolfyzDBois aka Marie
 > Strasbourg, France
-> Student at @EPITA
-> Passionate about computers, science, nature, music, reading, and other passions...
+> CS student @EPITA - @UAQC (Canada)
 > Speak French & English
-
-wolfyzdbois:~$ cd projects && ls
-ls: cannot open directory 'projects': SOON ! 
+> Any/All
 
 wolfyzdbois:~$ cd associations && ls
-> Secretary @Aide Réseaux
-> Secretary @Codeur Pro
-> Member @Aide Jeune
-
-wolfyzdbois:~$ cd work/discord && ls
-> @Slash Fr ~ Guide
-> @Aide Jeune ~ Moderator, Event Host 
-> @Aide Scolaire ~ Manager
-> @Aide Réseaux ~ Manager
-> @Natoo ~ Moderator at Twitch and Discord
-> And also ... Contributor @Discord.fr
-
-wolfyzdbois:~$ cd techs && ls
-> C#
-> HTML/CSS/JS
-> Unity (for 2D) (Soon)
-> Python
-> OCaml
-> Discord.JS
-
-wolfyzdbois:~$ cd os && ls
-> Ubuntu
-> Fedora
-> Windows occasionally
+> Aide Réseaux : Technical Leader, VP
+> Prologin - Sysadmin
+> Aide Jeune : Board member
 
 wolfyzdbois:~$ cd contact
-> By Discord at @wolfyzdbois
-> By email at wolfyzpro@gmail.com
+> Discord : wolfyzdbois
+> Email : thibault@wolfyz.org
+> Git : git.wolfyz.org
 
 ```
 
